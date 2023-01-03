@@ -1,0 +1,23 @@
+ID du patient,Gene_PUKE,Gene_ELANE,Gene_renommer,Gene_supprimer,Diagnostic
+A,7,16,8,7,NAN
+B,7,14,8,12,Sain
+C,1,10,12,19,Sain
+D,5,13,7,7,NAN
+E,0,15,9,11,Sain
+F,18,4,9,19,Cancer
+G,12,6,9,10,Cancer
+H,16,4,9,9,Cancer
+I,2,11,9,1,Sain
+J,16,4,10,13,Cancer
+K,10,11,10,20,Sain
+L,6,15,11,6,Sain
+M,13,3,10,4,Cancer
+N,2,14,8,17,Sain
+O,4,15,9,0,Sain
+P,15,4,11,15,Cancer
+Q,7,12,10,12,Sain
+R,16,5,12,15,Cancer
+S,17,4,12,5,Cancer
+T,6,13,10,2,Sain
+U,8,6,11,0,Cancer
+V,9,5,9,0,Cancer
